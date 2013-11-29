@@ -1,0 +1,892 @@
+/* CSS Document Dezignwhizgroups */
+/* Dody Part */
+
+*::selection
+{
+	background: none;
+	color:#ff5f00 ;
+}
+
+*::-moz-selection
+{
+	background: none;
+	color:#ff5f00;
+}
+
+body
+{
+	margin:0px;
+	padding:0px;
+	}
+
+#wrapper
+{
+	width:100%;
+	margin:0px;
+	padding:0px;
+	background:#FFFFFF url(../images/bg.jpg) repeat-x top left;
+}
+
+.faq a
+{
+font-family:Arial; font-weight:bold; font-size:12px; color:#FFFFFF;
+}
+.faq a:hover
+{
+font-family:Arial; font-weight:bold; font-size:12px; color:#FF9900;
+}
+
+#container 
+{
+	margin:0px auto;
+	padding:0px;
+	width:990px;
+}
+
+#header 
+{
+	
+	margin:0px auto;
+	padding:0px;
+	width:990px;
+	height:520px;
+}
+
+#logo a.logo
+{
+	background:url(../images/logo1.jpg) no-repeat left center;	
+	outline:none;	
+	width:502px;
+	height:101px;
+	display:block;
+}
+/* Header Part */
+
+#banner
+{
+	padding:0px;
+	width:990px;
+	height:340px;;
+}
+
+#headerlink
+{
+	background-image:url(../images/rightht.jpg);
+	background-repeat:no-repeat;
+	height:101px;
+	width:325px;	
+	color:#FFFFFF;
+	font-family:sans-serif;
+	float:right;
+	
+}
+
+/* Menu Part */
+#mainmenu {
+width: 100%;
+overflow: hidden;	
+font-family:sans-serif;
+font-size: 12px;
+font-weight:600;
+} 
+#mainmenu ul{
+margin: 0;
+padding: 0;
+
+font-family:sans-serif;
+list-style-type: none;
+}
+
+#mainmenu li{	
+display: inline;
+margin: 0;	
+}
+
+#mainmenu li a {
+float: left;
+display: block;
+text-decoration: none;
+margin: 0;
+padding:17px 28px 17px 28px; /*padding inside each tab*/
+color: white;
+
+height:
+}
+
+#mainmenu li a:visited{
+color: white;
+}
+
+#mainmenu li a:hover, #mainmenu li.selected a{
+
+	background-color:#F90;
+	outline:none;	
+	
+}
+
+img
+{
+	border:0px;
+}
+
+/*Content Part*/
+#content
+{
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	font-weight:normal;
+	text-decoration:none;
+	margin:0px;
+	width:1000px;
+}
+#content1
+{
+background-image:url(../images/home-bg1.jpg);
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	font-weight:normal;
+	text-decoration:none;
+	margin:0px;
+	width:1000px;
+}
+.rightBg
+{
+	background-image:url(../images/home-bg1.jpg);
+	background-repeat:repeat-x;
+	float:left;
+	width:360px;
+}
+#whydwg
+{
+	background-image:url(../images/rightBg.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px; 	
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#whydwg1
+{
+	
+	float:right;		
+	width:300px; 	
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 30px 10px 10px;
+}
+#whydwg2
+{
+	background-image:url(../images/rightBg1.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#javaSC
+{
+	background-image:url(../images/JavaTraining.jpg);
+	background-color:#0089d9;
+	background-repeat:no-repeat;
+	float:left;		
+	width:300px;
+	height:668px;		
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	
+}
+#dotNetSC
+{
+	background-image:url(../images/DotNetTraining.jpg);
+	background-color:#7caf30;
+	background-repeat:no-repeat;
+	float:left;		
+	width:300px;
+	height:668px;		
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	margin-left:40px;	
+}
+#mmSC
+{
+	background-image:url(../images/AndroidTraining.jpg);
+	background-color:#d5005a;
+	background-repeat:no-repeat;
+	float:right;	
+	width:300px;
+	height:668px;	
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	alt:Best Android Training in Chennai;
+	
+}
+
+.summerCourseTitle
+{
+	line-height:26px;
+	font-family:Arial;
+	font-size:18px; 
+	font-weight:bold;
+	padding-left:10px;	
+	color:#333333;
+}
+
+ul.summerCourseTitle
+{
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: normal;
+	font-weight:bold;	
+	line-height:20px;	
+	color:#333;
+}
+ul.summerCourseTitle li
+{
+	list-style:none;
+	font-weight:400;
+	font-family:verdana;
+	font-size:11px;
+	padding-left:10px;	
+	color:#333;
+}
+
+.whusj
+{
+	background-image:url(../images/rightBg.jpg);
+	background-repeat:no-repeat;
+	width:320px;
+	height:257px;
+}
+
+#paratitle
+{
+	font-family:sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#777;
+}
+ul.whydwg
+{
+	width:300;
+	text-decoration:none;
+	font-family:verdana;
+	font-size:11px;
+	font-weight:normal;
+	line-height:17px;
+	color:#333333;
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+
+ul.whydwg li
+{
+	list-style:none;
+	text-align:justify;
+	background:url(../images/arow.jpg) left 5px no-repeat;	
+	padding-bottom:18px;
+	padding-left:15px;
+	cursor:pointer;
+}
+
+#welcomedwg
+{
+	padding-left:20px;
+	 padding-right:20px;
+	 background-image:url(../images/home-bg1.jpg);
+	 background-repeat:repeat-x;
+}
+.welcomedwg
+{
+	padding-top:10px;
+	width:585px; 
+	float:left;
+	
+}
+.welcomedwg p span{color:#0a4c6f;font-weight:bold;}
+.welcomedwg p span.joining{color:#e12c00;}
+a
+{
+	color:#333333;
+	text-decoration:none;
+	outline:none;
+}
+
+a:hover
+{
+	
+	color:#ff5f00;
+	text-decoration:none;
+}
+
+a.readmore
+{
+	color:#ff5f00;
+	text-decoration:underline;
+}
+
+a.readmore:hover
+{
+	color:#333333;
+	text-decoration:none;
+	outline:none;
+}
+
+#solution
+{
+	padding-bottom:10px;	
+	outline:none;		
+}
+.solution a
+{
+		
+	padding-right:65px;
+	padding-left:20px;
+	float:left;
+	outline:none;
+}
+#softsol
+{
+	background:url(../images/softwaresolution.jpg) no-repeat left; 
+	display:block; 
+	width:154; 
+	height:52; 
+	padding-left:154px; 
+	padding-bottom:52px;"
+	outline:none;
+}
+
+#softsol:hover
+{
+	background:url(../images/softwaresolutionhover.jpg) no-repeat left; 
+	display:block; 
+	width:154; 
+	height:52; 
+	padding-left:154px; 
+	padding-bottom:52px;"
+	outline:none;
+}
+
+#websol
+{
+	background:url(../images/websolution.jpg) no-repeat left; 
+	display:block; 
+	width:154; 
+	height:52; 
+	padding-left:154px; 
+	padding-bottom:52px;
+	outline:none;
+}
+
+#websol:hover
+{
+	background:url(../images/websolutionhover.jpg) no-repeat left; 
+	display:block; 
+	width:154; 
+	height:52; 
+	padding-left:154px; 
+	padding-bottom:52px;
+	outline:none;
+}
+
+#seosol
+{
+	background:url(../images/seosolution.jpg) no-repeat left; 
+	display:block; 
+	width:154; 
+	height:52; 
+	padding-left:154px; 
+	padding-bottom:52px;
+	outline:none;
+}
+
+#seosol:hover
+{
+	background:url(../images/seosolutionhover.jpg) no-repeat left; 
+	display:block; 
+	width:154; 
+	height:52; 
+	padding-left:154px; 
+	padding-bottom:52px;
+	outline:none;
+}
+
+#viewport
+{
+	background:url(../images/viewportfolio.jpg) no-repeat left; 
+	display:block; 
+	width:154; 
+	height:52; 
+	padding-left:166px; 
+	padding-bottom:52px;
+	outline:none;
+}
+
+#viewport:hover
+{
+	background:url(../images/viewportfoliohover.jpg) no-repeat left;  
+	display:block; 
+	width:154; 
+	height:52; 
+	padding-left:166px; 
+	padding-bottom:52px;
+	outline:none;
+}
+
+#testimonial
+{
+	width:520px;
+	background:url(../images/testimonial.jpg) no-repeat top left;
+	padding-top:30px;
+	padding-right:15px;
+
+}
+
+.testimonial
+{
+	padding:20px; 
+	background:url(../images/tabbg.jpg) left repeat-x;	
+}
+
+.testimonial .head1
+{
+	color:#333333; 
+	line-height:28px;
+}
+
+.testimonial .head2
+{ 
+	color:#00a1e4;
+	line-height:17px;
+}
+
+#livesuppot
+{
+	padding-left:20px; 
+	padding-right:20px; 
+	padding-top:20px; 
+	height:300px;
+}
+
+.god
+{
+	font-family:sans-serif;
+	font-size:18px; 
+	font-weight:bold;
+	color:#646464;
+}
+
+.clients
+{
+	color:#5b5859;
+	font-family:verdana;
+	font-family:12px;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#freequote a.freequote
+{
+	padding-top:20px;
+	background:url(../images/freequate.jpg) no-repeat left top;
+	width:152px;
+	height:83px;
+	display:block
+}
+
+#livesupport a.livesupport
+{	
+	padding-top:3px;
+	outline:none;
+	background:url(../images/livesupport.jpg) no-repeat left top;
+	width:162px;
+	height:105px;
+	display:block;
+	padding-bottom:10px;
+}
+
+.contact
+{
+color:#FF6600;
+}
+
+/* image vertical scroller*/
+#news-container
+{
+	width:200px;
+	margin: 0;
+
+	
+}
+
+#news-container ul li 
+{
+	
+	background: #ffffff;
+	
+	list-style:none
+}
+
+#recentproject
+{
+	width:180px; 
+	padding-top:40px; 
+	background:url(../images/recentwork.jpg) no-repeat top left; 
+	float:left;
+	
+}
+
+#recentproject a
+{
+	width:166px; 
+	height:120px;
+	padding-bottom:40px; 
+	display:block;	
+}
+
+/*Footer Part*/
+#footer
+{
+	background:url(../images/fadetop.jpg) no-repeat top;
+	height:30px;
+	padding-top:-20px;
+	
+	font-family:verdana;
+	font-size:10px;
+	font-weight:normal;
+	text-decoration:none;
+	line-height:17px;
+	color:#333333;
+}
+
+
+.content_data_inner{margin:0;padding:0;float:left;text-align:left;height:300px;width:650px;}
+.content_data_inner ul{margin:0;padding:0;float:left;display:block;height:20px;width:100%;list-style:none;}
+.content_data_inner ul li{margin:0;padding:0;float:left;list-style:none;height:20px;width:40%;display:block;}
+.content_data_inner ul li.left{margin:0;padding:0;float:left;list-style:none;height:20px;width:40%;display:block; font-weight:bolder;font-size:15px;color:#F60;}
+.content_data_inner ul li.right{margin:0;padding:0;float:left;list-style:none;height:20px;width:60%;display:block;font-family:Arial;font-size:13px;color:#4a4a4a;}
+/*******new*****/
+.contactus_right_all{float:left;font-family:verdana;font-size:11px;line-height:17px;color:#333333;text-decoration:none;padding:10px 0px 10px 10px;width:300px;}
+.contact_map{margin:0;padding:0;float:left;text-align:left;width:310px;height:315px;display:block;}
+.contact_adressdetail{margin:0;padding:0;float:left;text-align:left;width:290px;display:block;}
+.contact_adressdetail h1{font-size:14px;font-weight:bold;color:#4a4a4a;font-family:Arial;display:block;}
+.contact_adressdetail p{margin:0;padding:0;float:left;display:block;color:#4a4a4a;font-family:Arial;font-size:13px;}
+.contact_adressdetail p a{color:#4a4a4a;text-decoration:none;}
+.contact_adressdetail p a:hover{text-decoration:underline;color:#ff5f00;}
+.testimonials_all{width:613px;margin:10px 0px 0px 0px;padding:0;float:left;text-align:left;display:block;}
+
+.trainers_all{width:800px;margin:5px 0px 0px 0px;padding:0;float:left;text-align:left;display:block;}
+
+.testimonials_photo{margin:0;padding:0;float:left;text-align:left;width:112px;height:113px;display:block;}
+
+.trainers_profile{margin:0;padding:0;float:right;text-align:right;width:112px;height:113px;display:block;}
+
+.testimonials_arrow{margin:0px 0px 0px 5px;padding:0;background:url(../images/testi_content_arrow.png) no-repeat top left;height:113px;width:36px;float:left;}
+.testimonials_content_inner{margin:0;padding:0;float:left;width:444px;display:block; }
+.testimonials_content_top{margin:0;padding:0;height:9px;width:444px;background:url(../images/test_content_top.png) no-repeat top left;display:block;float:left;}
+.testimonials_content_main{margin:0;padding:5px 20px 5px 20px;float:left;width:444px;display:block;background:url(../images/testi_content_middle.png) repeat-y top left;}
+.testimonials_content_main p{color:#4a4a4a;width:90%;display:block;}
+.testimonials_content_main span.name{margin:0;padding:0;width:90%;float:left;text-align:right;color:#0b557c;font-weight:bold;}
+.testimonials_content_main span.college{margin:0;padding:0;width:90%;float:left;text-align:right;color:#740f02;font-weight:bold;}
+.testimonials_content_bottom{margin:0;padding:0;float:left;height:17px;width:444px;background:url(../images/testi_content_bottom.jpg) no-repeat top left;}
+#android
+{
+	background-image:url(../images/IEEE_android_project.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#android1
+{
+	background-image:url(../images/IEEE_2012_android_project.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#java
+{
+	background-image:url(../images/IEEE_java_project.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#java1
+{
+	background-image:url(../images/IEEE_2012_java_project.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#oracle
+{
+	background-image:url(../images/IEEE_oracle_project.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#oracle1
+{
+	background-image:url(../images/IEEE_2012_oracle_project.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#dotnet
+{
+	background-image:url(../images/IEEE_dotnet_project.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#dotnet1
+{
+	background-image:url(../images/IEEE_2012_dotnet_project.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#ns2
+{
+	background-image:url(../images/IEEE_ns2_project.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#ns21
+{
+	background-image:url(../images/IEEE_2012_ns2_project.jpg);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#iptcse
+{
+	background-image:url(../images/ipt_cse.png);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#iptcse1
+{
+	background-image:url(../images/ipt_cse_it.png);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#iptece
+{
+	background-image:url(../images/ipt_ece.png);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#iptece1
+{
+	background-image:url(../images/ipt_ece_eee.png);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#iptmech
+{
+	background-image:url(../images/ipt_mech.png);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#iptmech1
+{
+	background-image:url(../images/ipt_mech_civil.png);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#ipt_ns2
+{
+	background-image:url(../images/ipt_ns2.png);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#why_ns2
+{
+	background-image:url(../images/why_ns2.png);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+#uniq_ipt_ns2
+{
+	background-image:url(../images/uniq_ipt_ns2.png);
+	background-repeat:no-repeat;
+	float:right;		
+	width:300px;
+	height:400px;
+	font-family:verdana;
+	font-size:11px;
+	line-height:17px;
+	color:#333333;
+	text-decoration:none;
+	padding:20px 10px 10px 10px;
+}
+
+
+
+
+
+
+
+
+

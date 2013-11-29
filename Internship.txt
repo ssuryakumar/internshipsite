@@ -1,0 +1,74 @@
+Who can apply: - Anyone having excellent programming and problem solving skills can apply. Desired skills-
+
+Good knowledge of Search and Graph algorithms involving technologies like Solr, Lucene, Neo4j, MongoDB
+Practical working knowledge in Machine Learning and Data Mining
+Good knowledge of PHP, Javascript/CSS, HTML5, Android, iOS, AWS
+Deep understanding of human psychology involving Desire Engine, Design Thinking and its practical applications
+
+
+
+Web development: intern will be responsible for following:
+
+Designing, developing and maintaining the complete site from scratch
+Google maps API integration on the site
+Integration of the social networking sites like twitter/FB/Google
+Search Engineer Intern: specific responsibilities include
+
+Designing and building the information retrieval system that drives the back end engine of WorthYourHolidays
+Document indexing, retrieval, and relevance scoring.
+
+
+
+Who can apply:- For Web development- Applicants should have good knowledge of HTML, CSS, jquery and should carry experience with CMS like drupel or joomla. Understanding of Java would be a plus point.
+
+
+
+For Search Engineer- Applicants should- 
+
+Have understanding of information retrieval
+Experience with building indexing & search systems, including vertical search
+Experience working with open source search software (Lucene/Solr) using Java or C++
+Bonus points if you have experience with any of the following areas: Natural Language Processing (NLP), Web crawling.
+
+Students from tier-A colleges will be given preference.
+
+
+Testimonials
+
+
+"My first internship was at Inforill Technologies, a Chennai based start-up. Frankly, I never received any stipend for my internship. I worked for 4 months a without getting any stipend. My project manager was a veteran software engineer who retired from Goldman Sachs to run his own start-up. Many would say I was crazy to work for free but I knew deep within me that the experience I’d gain in working with him would be invaluable.
+
+I had no monetary stipend. The experience and the software development skills I gained was my stipend.
+With that experience (stipend) I have begun my own software start-up which is running successfully and has a net worth or more than Rs.5,00,000. I have more than 10 people employed under me and I’m still in my final year of graduation.
+
+So my advice to all those bright minds who are looking for internships is not to worry about the stipend. Stipends are important as they give you a sense of achievement but in the end the experience you gain is what counts and that’s what will help you go a long way in your career."
+
+"This is just to thank you for the effort you have made with Internshala. It has really helped me in getting my first internship call. I really appreciate the Internshala team and hope a bright future for you. Thank you."
+
+" A million thanks to you, brother, for creating such a big repository of information. It has really helped engineering students like me who are from colleges with no reputation or strong peer group and lack of guidance. Even though I haven’t got internships that I have applied for from your website, at least now I know that there is some information about internships available to me and I can keep trying till I get one.
+Thank you, great job, keep it up. "
+
+
+" I am presently working as an intern with APCA Power. I would like to thank the Internshala team for helping me bag this opportunity. One exceptional thing that I noticed at Internshala is your personal response at each and every query posted by students. This implies that one has to put a lot of time and effort (daily!) to keep answering these queries. Anyway, I again thank you for the brilliant concept of Internshala and hope it continues to help students connect with the industry. "
+
+" Team Internshala is really doing a great job to help the students all over India. It’s really cool and also offers the best learning experience. Even the contests you put up help in exploring the skills of an aspirant at its best. I’m really honoured to be a part of it. Keep up the good work.
+All the very best Team Internshala! " 
+
+
+"  I am currently pursuing my B.Tech at IIT Bombay in Electrical Engineering. I would like to let you know that I have been selected for the summer research program at Carnegie Mellon University, about which I came to know through one of the posts on your website. Hence, I would like to thank you since your website has really helped me as it must have helped countless others. I am highly grateful. I have been following Internshala for quite some time now and must say that you have been doing a great job. Even though we have a separate Placement Training Cell at IITB dedicated solely to the purpose of getting students internships, a lot of the people I know refer to your website for internship offers. Perhaps, this is indicative of the lack of good internships for the student community and information about the same. Your initiative has been playing a huge role in addressing this problem and I truly appreciate your efforts. I sincerely hope that Internshala keeps getting bigger and serves more students in the years to come. Wishing you best of luck.  "
+
+
+" I’m a third year undergraduate student from BITS Pilani, Hyderabad campus. I have been selected for an internship in The Defence Academy, Cranfield University (CDS internship) in UK for this summer. I would like to thank you guys for bringing to my notice the CDS internship through your website. This is a great job you are doing, keep up the good work! I have been recommending this website to all my friends and I find it really useful. Thanks and regards. "
+
+" I am a 3rd year student of IIT Kharagpur. I found out about Internshala very recently and I just wanted to say that it’s a very, very helpful initiative. I am sure you get hundreds of mails everyday inquiring about internships, well I thought you might like a ‘Thank you’ mail amidst of all those. Trust me when I say out of all the startups I have come across only this one made me write this e-mail. Congratulations and thank you! Keep posting! :) "
+
+" I came to know about your website from a television show. And as I am looking for an internship in summer 2012, this came as a good news to me. But without being boastful, I sincerely appreciate your thinking and the efforts you have put in to make this possible. We all know that our first interaction with any industry is through internships, and it is now compulsory as a part of the curriculum of many colleges/institutes. And for industry people too, it is the best way to boost their industry-academia relations. And your efforts to provide students a platform to avail this opportunity is highly commendable. Although I am looking for an internship in the management section of any oil & gas company, and could not find any listing fulfilling this criteria but I am sure that your website will soon put an end to my search. And also the forum is very helpful to share and highlight our experiences and tips. Wishing you great success ahead."
+
+
+
+
+
+
+
+
+
